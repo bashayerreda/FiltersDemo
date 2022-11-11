@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FiltersDemo</string>
+    <string name="editnewimg">Edit new image</string>
+    <string name="savedimages">Saved Images</string>
+    <string name="let_s_create_something_cool">let\'s create something cool</string>
+    <string name="imagesFilter">Images Filter</string>
+    <string name="Filter1">Filter 1</string>
+    <string name="ApplyFilters">Apply Filters</string>
+    <string name="Saved_images">Saved images</string>
+</resources>
